@@ -16,6 +16,6 @@ Use guide:
   Function 'main_handler' take HTTP request.
   Allowed methods:
     GET - get all Items
-    PUT - create new Item. Required 'content'
-    PATH - update Item. Required 'index'
+    PUT - create new Item. Required 'content'  
+    PATH - update Item. Required 'index'  
     DELETE - Delete Item. Required 'index'
